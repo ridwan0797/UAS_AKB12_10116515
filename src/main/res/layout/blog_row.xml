@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    app:cardCornerRadius="12dp"
+    android:layout_margin="10dp"
+    android:layout_marginRight="10dp"
+    android:elevation="98dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="295dp"
+        android:background="@color/putih"
+        android:orientation="vertical">
+
+
+        <ImageView
+            android:id="@+id/post_image"
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:scaleType="centerCrop" />
+
+        <TextView
+            android:id="@+id/post_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="POST TITLE"
+            android:textColor="@color/hitam"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/post_desc"
+            android:layout_width="358dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="POST DESCR"
+            android:textColor="@color/hitam" />
+
+        <TextView
+            android:id="@+id/post_telpon"
+            android:layout_width="358dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="POST TELPON"
+            android:textColor="@color/hitam" />
+
+        <TextView
+            android:id="@+id/post_provinsi"
+            android:layout_width="358dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="POST PROVINSI"
+            android:textColor="@color/hitam" />
+
+
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>

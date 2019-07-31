@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <font
+            android:fontStyle="normal"
+            android:fontWeight="300"
+            android:font="@font/fresty"/>
+
+        <font
+            android:fontStyle="normal"
+            android:fontWeight="300"
+            android:font="@font/pnregular"/>
+
+        <font
+            android:fontStyle="normal"
+            android:fontWeight="300"
+            android:font="@font/pnblack"/>
+
+        <font
+            android:fontStyle="normal"
+            android:fontWeight="300"
+            android:font="@font/pnbold"/>
+
+        <font
+            android:fontStyle="normal"
+            android:fontWeight="300"
+            android:font="@font/pnexbold"/>
+</font-family>
