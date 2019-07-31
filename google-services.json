@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "61484823617",
+    "firebase_url": "https://carisma2.firebaseio.com",
+    "project_id": "carisma2",
+    "storage_bucket": "carisma2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61484823617:android:9a1d92b51b08b077",
+        "android_client_info": {
+          "package_name": "com.school.carisma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61484823617-jtdahoubb8gta7ug7jt7agbckliegijf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.school.carisma",
+            "certificate_hash": "e1075c8cc0f9c1feeb3dee848f11812ba4798fce"
+          }
+        },
+        {
+          "client_id": "61484823617-a260fth4r8rheo3i6d0nfrin949o2rjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE8rIppVRUNB9jlvVZBQOE90e7ZkoZemg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61484823617-a260fth4r8rheo3i6d0nfrin949o2rjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
